@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include "Image.h"
 #include "RC4.h"
+#include "AES.h"
 
 #define T_ELEMENT_MAX   (256)
 #define S_ELEMENT_MAX   (T_ELEMENT_MAX)
